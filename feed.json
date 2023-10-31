@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog voyage",
+    "description": "",
+    "home_page_url": "https://l4ur3l13.github.io/gh-pages",
+    "feed_url": "https://l4ur3l13.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://l4ur3l13.github.io/gh-pages/media/website/Poisson-rouge.jpg",
+    "author": {
+        "name": "Alice Kurosagi"
+    },
+    "items": [
+        {
+            "id": "https://l4ur3l13.github.io/gh-pages/mon-voyage-avec-jane-austen.html",
+            "url": "https://l4ur3l13.github.io/gh-pages/mon-voyage-avec-jane-austen.html",
+            "title": "Mon voyage avec Jane Austen",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://l4ur3l13.github.io/gh-pages/media/posts/1/IMG_0048.JPG\" alt=\"\" width=\"4000\" height=\"3000\" sizes=\"100vw\" srcset=\"https://l4ur3l13.github.io/gh-pages/media/posts/1/responsive/IMG_0048-xs.JPG 300w ,https://l4ur3l13.github.io/gh-pages/media/posts/1/responsive/IMG_0048-sm.JPG 480w ,https://l4ur3l13.github.io/gh-pages/media/posts/1/responsive/IMG_0048-md.JPG 768w ,https://l4ur3l13.github.io/gh-pages/media/posts/1/responsive/IMG_0048-lg.JPG 1024w ,https://l4ur3l13.github.io/gh-pages/media/posts/1/responsive/IMG_0048-xl.JPG 1360w ,https://l4ur3l13.github.io/gh-pages/media/posts/1/responsive/IMG_0048-2xl.JPG 1600w\"></figure>",
+            "author": {
+                "name": "Alice Kurosagi"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-31T11:38:18+01:00",
+            "date_modified": "2023-10-31T11:38:18+01:00"
+        }
+    ]
+}
